@@ -2,6 +2,7 @@
 
 **With 👨🏻‍💻🎧✈️☕️...**
 
+- **[Blog](https://jaewoogwak.tistory.com/)**
 <!--
 **jaewoogwak/jaewoogwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
